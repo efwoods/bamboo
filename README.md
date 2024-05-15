@@ -5,9 +5,11 @@ This repository tracks the progress of potentially using eureka to train a task 
 Eureka was used to train a robotic dog to move during a simulation. The results are detailed in this following article: https://interestingengineering.com/innovation/nvidia-robot-yoga-ball-balance
 
 The first step would be to recreate this work - use Eureka to train a robot to do a task. 
+Eureka is detailed in the following: https://eureka-research.github.io
 
 ## Step 2: Port Eureka to a robotic form
 The second step in this process is to move the trained model from Eureka to a robotic form. This proves that the code is useable in a robotic form. Imagine training in Eureka and porting to Spot (which has a public sdk: https://dev.bostondynamics.com/docs/protos/readme). 
+This process was detailed in the following article: https://interestingengineering.com/innovation/nvidia-robot-yoga-ball-balance
 
 ## Step 3: Porting the code to a Neuralinked animal
 In this step, a Neuralinked animal would be mechanically turked to move based upon inputs. The neuralink would need to be attached to locations of the brain that control muscular movement. Fine-grained movement would need to be controlled and translated to some sort of API. From which the task that was trained in simulation would be used to train the human or animal. 
