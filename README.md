@@ -25,6 +25,6 @@ This limiting factor for this work is step 3 - I believe it is possible to send 
 
 https://www.google.com/search?q=black+widow+pig+scene+breathing&safe=active&client=safari&sca_esv=697ef796fdf142b1&rls=en&ei=80VFZsqENvuCwbkPrZW58AY&ved=0ahUKEwiKypK16JCGAxV7QTABHa1KDm4Q4dUDCA8&uact=5&oq=black+widow+pig+scene+breathing&gs_lp=Egxnd3Mtd2l6LXNlcnAiH2JsYWNrIHdpZG93IHBpZyBzY2VuZSBicmVhdGhpbmdImxdQyg1Y1RZwAngBkAEAmAFkoAGRBqoBAzguMbgBA8gBAPgBAZgCBqAC-QLCAgoQABiwAxjWBBhHwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAgUQIRigAcICBRAhGJ8FmAMAiAYBkAYIkgcDNC4yoAfiEA&sclient=gws-wiz-serp#fpstate=ive&vld=cid:2c0cd745,vid:fWO9Lw4Z48E,st:0
 
-A crude example of this concept is this presentation in which EMG is used to send a signal from one brain to another:
+A crude example of this concept is this presentation in which EMG is used to send a signal from one brain to control the arm movements of another individual:
 https://vimeo.com/296925760
 
