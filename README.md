@@ -4,10 +4,10 @@ This repository tracks the progress of potentially using eureka to train a task 
 I want this technology to spread to everyone in the world. I want this to promote human growth and capability. Bamboo spreads, grows fast, and grows tall, hence the name.
 
 ## Step 1: Leveraging Eureka as in prior works:
-Eureka was used to train a robotic dog to move during a simulation. The results are detailed in this following article: https://interestingengineering.com/innovation/nvidia-robot-yoga-ball-balance
+Eureka was used to train a robotic dog to move during a simulation. The results are detailed in this following [article](https://interestingengineering.com/innovation/nvidia-robot-yoga-ball-balance). 
 
 The first step would be to recreate this work - use Eureka to train a robot to do a task. 
-Eureka is detailed in the following: https://eureka-research.github.io
+Eureka is detailed in the following [github repository](https://eureka-research.github.io).
 
 ## Step 2: Port Eureka to a robotic form
 The second step in this process is to move the trained model from Eureka to a robotic form. This proves that the code is useable in a robotic form. Imagine training in Eureka and porting to Spot (which has a [public sdk](https://dev.bostondynamics.com/docs/protos/readme)).
