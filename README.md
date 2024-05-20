@@ -1,7 +1,7 @@
 # Bamboo
 This repository tracks the progress of potentially using eureka to train a task in simulation, port that task to a physical robot, then port that task to a Neuralinked individual. This would allow the training of any skill in simulation to be moved to a human which would be mechanically turked into performing tasks they have never known how to do.
 
-I want this technology to spread to everyone in the world. I want this to promote human growth and capability. Bamboo spreads, grows fast, and grows tall, hence the name.
+I want this technology to spread to everyone in the world. I want this technology to promote human growth and capability. Bamboo spreads, grows fast, and grows tall, hence the name.
 
 ## Step 1: Leveraging Eureka as in prior works:
 Eureka was used to train a robotic dog to move during a simulation. The results are detailed in this following [article](https://interestingengineering.com/innovation/nvidia-robot-yoga-ball-balance). 
