@@ -28,3 +28,8 @@ https://www.google.com/search?q=black+widow+pig+scene+breathing&safe=active&clie
 A crude example of this concept is this presentation in which EMG is used to send a signal from one brain to control the arm movements of another individual:
 https://vimeo.com/296925760
 
+Through the realization of this technology, people will be able to access skills, rathar than knowledge, of which were never accessible before. I believe this will allow people to fundamentally change who they are in the world and make the world a better place for improving the quality of the people living and the world and the quality of their lives. 
+
+It is not hard to imagine a world where criminals are reformed by physically controlling their behaviors to enable them to live different lifestyles while understanding their intent without question. This method of reform eliminates any ambiguity in choice or intent, and results in an individual who's capabilities far surpass those that they had previously obtained or could have obtained in a lifetime through traditional means of education or reinforcement. These results are the results of this technology at its peak, and encourages the acceptance of the continuation of all human life and creates a world where punishment for the sake of reform is obsolete. 
+
+
