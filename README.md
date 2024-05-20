@@ -1,4 +1,4 @@
-# eureka-to-human
+# Bamboo
 This repository tracks the progress of potentially using eureka to train a task in simulation, port that task to a physical robot, then port that task to a Neuralinked individual. This would allow the training of any skill in simulation to be moved to a human which would be mechanically turked into performing tasks they have never known how to do.
 
 I want this technology to spread to everyone in the world. I want this to promote human growth and capability. Bamboo spreads, grows fast, and grows tall, hence the name.
@@ -30,6 +30,6 @@ https://vimeo.com/296925760
 
 Through the realization of this technology, people will be able to access skills, rathar than knowledge, of which were never accessible before. I believe this will allow people to fundamentally change who they are in the world and make the world a better place for improving the quality of the people living and the world and the quality of their lives. 
 
-It is not hard to imagine a world where criminals are reformed by physically controlling their behaviors to enable them to live different lifestyles while understanding their intent without question. This method of reform eliminates any ambiguity in choice or intent, and results in an individual who's capabilities far surpass those that they had previously obtained or could have obtained in a lifetime through traditional means of education or reinforcement. These results are the results of this technology at its peak, and encourages the acceptance of the continuation of all human life and creates a world where punishment for the sake of reform is obsolete. 
+It is not hard to imagine a world where people are reformed by physically controlling their behaviors to enable them to live different lifestyles while understanding their intent without question. This method of reform eliminates any ambiguity in choice or intent, and results in an individual who's capabilities far surpass those that they had previously obtained or could have obtained in a lifetime through traditional means of education or reinforcement. These results are the results of this technology at its peak, and encourages the continuation of all human life and creates a world where reinforcement learning for the sake of behavioral reform is uncessessary and obsolete due to timilness, capability, and morality. 
 
 
